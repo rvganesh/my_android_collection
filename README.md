@@ -1,24 +1,22 @@
-# my_android_collection
-
 # My Android Library Collection
 
-### Networking
+## Networking
 * [OkHttp](https://github.com/square/okhttp)
 
-### REST Client
+## REST Client
 * [Retrofit](https://github.com/square/retrofit)
 * [Volley](https://github.com/mcxiaoke/android-volley)
 
-### JSON
+## JSON
 * [Gson](https://github.com/google/gson)
 
-### Reactive
+## Reactive
 * [RxJava](https://github.com/ReactiveX/RxJava)
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 * [RxLifecycle](https://github.com/trello/RxLifecycle)
 * [RxBinding](https://github.com/JakeWharton/RxBinding)
 
-### ORM
+## ORM
 * [DBFlow](https://github.com/Raizlabs/DBFlow)
 * [SugarORM](https://github.com/satyan/sugar)
 * [greenDAO](https://github.com/greenrobot/greenDAO)
