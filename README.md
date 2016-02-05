@@ -22,9 +22,9 @@
   ##### Dialog
     * [Peek and Pop] (https://github.com/rvganesh/PeekAndPop)
     * [Material Dialog] (https://github.com/rvganesh/material-dialogs)
+    
   ##### Menu
     * [CoolMenu](https://github.com/rvganesh/coolMenu)
-    
     
   ##### EditText
     * [Masked-Edittext](https://github.com/rvganesh/Masked-Edittext)
@@ -94,7 +94,6 @@
  * [Wallpaper](https://github.com/rvganesh/wall-splash-android)
  * [SoundRecorder](https://github.com/rvganesh/SoundRecorder)
  
- 
   ##### Music Player
   * [Jocky] (https://github.com/rvganesh/Jockey)
   * [Auro] (https://github.com/rvganesh/Auro)
@@ -102,7 +101,7 @@
   * [GEM](https://github.com/rvganesh/GEM)
   * [Jams](https://github.com/rvganesh/JamsMusicPlayer)
   * [Timber](https://github.com/rvganesh/Timber)
-  * 
+  
   ##### Camera
   * [LCamera](https://github.com/rvganesh/lcamera)
   * [StickerCamera](https://github.com/rvganesh/StickerCamera)
