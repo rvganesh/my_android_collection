@@ -30,10 +30,7 @@
 ##Effect
    * [Reflect] (https://github.com/rvganesh/reflectasm)
  
-##Media
-   ##### Video View 
-     * [Jockey] (https://github.com/marverenic/Jockey)
-
 ## Project
   * [File Manager] (https://github.com/rvganesh/AmazeFileManager-1)
+  * [Music Player- Jocky] (https://github.com/rvganesh/Jockey)
   * 
