@@ -28,8 +28,8 @@
     * [Full Screen Video] (https://github.com/rvganesh/FullscreenVideoView)
 
 ##Effect
- * [Reflect] (https://github.com/rvganesh/reflectasm)
+   * [Reflect] (https://github.com/rvganesh/reflectasm)
  
 ## Media
   ##### Music Player
-     * [Jockey] (https://github.com/marverenic/Jockey)
+    * [Jockey] (https://github.com/marverenic/Jockey)
