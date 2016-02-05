@@ -30,8 +30,8 @@
 ##Effect
    * [Reflect] (https://github.com/rvganesh/reflectasm)
  
-## Media
-  ##### Music Player
+##Media
+  ##### Video View 
     * [Jockey] (https://github.com/marverenic/Jockey)
 
 ## Project
