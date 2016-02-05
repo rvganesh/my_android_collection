@@ -2,6 +2,7 @@
 
 ##UI
  * [Awesome UI Collection](https://github.com/rvganesh/awesome-android-ui)
+ * [Awesome UI](https://github.com/rvganesh/awesome-android-1)
  
   ##### RecyclerView
     * [Ultimate Recyclerview](https://github.com/rvganesh/UltimateRecyclerView)
@@ -10,11 +11,14 @@
     * [FastScroll] (https://github.com/rvganesh/RecyclerView-FastScroll)
     * [Drag and drop](https://github.com/rvganesh/DragRecyclerView)
     * [SwipwMenu] (https://github.com/rvganesh/SwipeMenuRecyclerView)
+    * [NestedRecycler](https://github.com/rvganesh/nested-recycler-view)
  
   ##### ProgressBar
     * [Dialing dot] (https://github.com/rvganesh/DilatingDotsProgressBar)
     * [AdhesiveLoadingView](https://github.com/rvganesh/AdhesiveLoadingView)
     * [Loading dot](https://github.com/rvganesh/loading-dots)
+    * [WaveLoading](https://github.com/rvganesh/WaveLoadingView)
+    * [CircularFillableLoader](https://github.com/rvganesh/CircularFillableLoaders)
 
   ##### ViewPager
     * [Mapviewpager] (https://github.com/rvganesh/mapviewpager)
@@ -25,6 +29,7 @@
     
   ##### Menu
     * [CoolMenu](https://github.com/rvganesh/coolMenu)
+    * [TapBarMenu](https://github.com/rvganesh/TapBarMenu)
     
   ##### EditText
     * [Masked-Edittext](https://github.com/rvganesh/Masked-Edittext)
@@ -39,8 +44,11 @@
     * [GifView](https://github.com/rvganesh/GifView)
     
   ##### Calendar
-     * [Clean-simple-calendar](https://github.com/rvganesh/clean-simple-calendar)
+    * [Clean-simple-calendar](https://github.com/rvganesh/clean-simple-calendar)
      
+  ##### Chart
+    * [Charter](https://github.com/rvganesh/Charter)
+    
   ##### Camera View 
     * [CamView] (https://github.com/rvganesh/CamView)
 
@@ -49,6 +57,7 @@
 
 ## Utils
  * [HashTagHelper] (https://github.com/rvganesh/HashTagHelper)
+ * [CrashLogger](https://github.com/rvganesh/CrashWoodpecker)
  
   ##### Time
     * [PrettyTime] (https://github.com/rvganesh/prettytime)
@@ -59,13 +68,16 @@
   ##### Parser
     * [LoganSquare](https://github.com/rvganesh/LoganSquare)
   
-  #### Crop
+  ##### Crop
     * [UCrop] (https://github.com/rvganesh/uCrop)
+    * [Scissors](https://github.com/rvganesh/scissors)
+    * [Cropper](https://github.com/rvganesh/CropperNoCropper)
 
 ##Effect
    * [Reflect] (https://github.com/rvganesh/reflectasm)
    * [HTextView](https://github.com/rvganesh/HTextView)
    * [LikeAnimation](https://github.com/rvganesh/LikeAnimation)
+   * [SwipeableCard](https://github.com/rvganesh/SwipeableCard)
  
 ## Project
  * [File Manager] (https://github.com/rvganesh/AmazeFileManager-1)
@@ -105,3 +117,4 @@
   ##### Camera
   * [LCamera](https://github.com/rvganesh/lcamera)
   * [StickerCamera](https://github.com/rvganesh/StickerCamera)
+  * [MaterialCamera](https://github.com/rvganesh/material-camera)
