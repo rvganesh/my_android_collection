@@ -31,6 +31,8 @@
    * [Reflect] (https://github.com/rvganesh/reflectasm)
  
 ## Project
-  * [File Manager] (https://github.com/rvganesh/AmazeFileManager-1)
-  * [Music Player- Jocky] (https://github.com/rvganesh/Jockey)
-  * 
+ * [File Manager] (https://github.com/rvganesh/AmazeFileManager-1)
+ 
+  ##### Music Player
+  * [Jocky] (https://github.com/rvganesh/Jockey)
+
