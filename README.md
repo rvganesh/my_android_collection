@@ -42,9 +42,12 @@
     * [MathView] (https://github.com/rvganesh/MathView)
     * [Timelineview](https://github.com/rvganesh/Timeline-View)
     * [GifView](https://github.com/rvganesh/GifView)
+    * [DragScaleCircleView](https://github.com/rvganesh/DragScaleCircleView)
+    
     
   ##### Calendar
     * [Clean-simple-calendar](https://github.com/rvganesh/clean-simple-calendar)
+    * [AgendaCalendarView](https://github.com/rvganesh/AgendaCalendarView)
      
   ##### Chart
     * [Charter](https://github.com/rvganesh/Charter)
@@ -105,6 +108,9 @@
  * [Task Notes](https://github.com/rvganesh/opentasks)
  * [Wallpaper](https://github.com/rvganesh/wall-splash-android)
  * [SoundRecorder](https://github.com/rvganesh/SoundRecorder)
+ * [Pattern Lock](https://github.com/rvganesh/PatternLock)
+ * [ShareViaHttp](https://github.com/rvganesh/shareviahttp)
+ * [LockScreen](https://github.com/rvganesh/Pi-Locker)
  
   ##### Music Player
   * [Jocky] (https://github.com/rvganesh/Jockey)
