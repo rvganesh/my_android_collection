@@ -27,15 +27,22 @@
 ##UI
  * [Awesome UI Collection](https://github.com/rvganesh/awesome-android-ui)
  * [Awesome UI](https://github.com/rvganesh/awesome-android-1)
+ * [Awesome Andorid](https://github.com/rvganesh/awesome-android)
+ * [Libraries](https://github.com/rvganesh/awesome-android-libraries)
+ 
  
   ##### Layout
     * [RefreshLayout](https://github.com/rvganesh/Android-MaterialRefreshLayout)
+    * [PullToRefresh](https://github.com/rvganesh/Taurus)
+    * [RefreshLayout](https://github.com/rvganesh/JellyRefreshLayout)
     * [ProgressLayout](https://github.com/rvganesh/ProgressLayout)
     * [CollapsingToolbarLayout](https://github.com/rvganesh/CollapsingToolbarExample)
     * [Shadow Layout](https://github.com/rvganesh/shadow-layout)
     * [RevealLayout](https://github.com/rvganesh/FABRevealLayout)
     * [ExpandableLayout](https://github.com/rvganesh/ExpandableLayout-1)
     * [ToggleExpantLayout](https://github.com/rvganesh/ToggleExpandLayout)
+    * [PhysicsLayout](https://github.com/rvganesh/PhysicsLayout)
+    * [FoldableLayout](https://github.com/rvganesh/FoldableLayout-1)
     
   ##### RecyclerView
     * [Ultimate Recyclerview](https://github.com/rvganesh/UltimateRecyclerView)
@@ -46,6 +53,7 @@
     * [SwipwMenu] (https://github.com/rvganesh/SwipeMenuRecyclerView)
     * [NestedRecycler](https://github.com/rvganesh/nested-recycler-view)
     * [Dividers](https://github.com/rvganesh/Dividers)
+    * [TreeRecyclerView](https://github.com/rvganesh/TreeRecyclerView)
  
   ##### ProgressBar
     * [Dialing dot] (https://github.com/rvganesh/DilatingDotsProgressBar)
@@ -54,6 +62,8 @@
     * [WaveLoading](https://github.com/rvganesh/WaveLoadingView)
     * [CircularFillableLoader](https://github.com/rvganesh/CircularFillableLoaders)
     * [DotProgress](https://github.com/rvganesh/DotProgressBarExample)
+    * [SmoothProgressBar](https://github.com/rvganesh/SmoothProgressBar)
+    * [GoogleProgressbar](https://github.com/rvganesh/GoogleProgressBar)
 
   ##### ViewPager
     * [Mapviewpager] (https://github.com/rvganesh/mapviewpager)
@@ -64,6 +74,9 @@
     * [BannerTime](https://github.com/rvganesh/BannerTime)
     * [SearchableSpinner](https://github.com/rvganesh/SearchableSpinner)
     * [PickerUI](https://github.com/rvganesh/PickerUI)
+    * [QuickAction](https://github.com/rvganesh/NewQuickAction3D)
+    * [NiftyDialog](https://github.com/rvganesh/NiftyDialogEffects)
+    * [Html Dialog](https://github.com/rvganesh/HtmlDialog)
     
   ##### Menu
     * [CoolMenu](https://github.com/rvganesh/coolMenu)
@@ -87,6 +100,9 @@
     * [Hashtag View](https://github.com/rvganesh/hashtag-view)
     * [WashingMachineView](https://github.com/rvganesh/WashingMachineView)
     * [WaveView](https://github.com/rvganesh/WaveView-1)
+    * [TriangleLabelView](https://github.com/rvganesh/TriangleRectangleLabelView)
+    * [PhotoView](https://github.com/rvganesh/PhotoView)
+    * [CompassView](https://github.com/rvganesh/Compass)
     
   ##### Calendar
     * [Clean-simple-calendar](https://github.com/rvganesh/clean-simple-calendar)
@@ -94,9 +110,14 @@
      
   ##### Chart
     * [Charter](https://github.com/rvganesh/Charter)
+    * [WilliamChart](https://github.com/rvganesh/WilliamChart)
+    * [XCL Chart](https://github.com/rvganesh/XCL-Charts)
     
   ##### Camera View 
     * [CamView] (https://github.com/rvganesh/CamView)
+    * [Camera2](https://github.com/rvganesh/Camera2)
+    * [CameraModule](https://github.com/rvganesh/CameraModule)
+    * [ChartView](https://github.com/rvganesh/ChartView)
 
   ##### Video View 
     * [Full Screen Video] (https://github.com/rvganesh/FullscreenVideoView)
@@ -104,6 +125,7 @@
 ## Utils
  * [HashTagHelper] (https://github.com/rvganesh/HashTagHelper)
  * [CrashLogger](https://github.com/rvganesh/CrashWoodpecker)
+ * [Shadow4Android](https://github.com/rvganesh/shadow4android)
  
   ##### Time
     * [PrettyTime] (https://github.com/rvganesh/prettytime)
@@ -121,14 +143,24 @@
     * [SimpleCropView](https://github.com/rvganesh/SimpleCropView)
 
 ##Effect
+   * [Animation] (https://github.com/rvganesh/NineOldAndroids) 
    * [Reflect] (https://github.com/rvganesh/reflectasm)
    * [HTextView](https://github.com/rvganesh/HTextView)
    * [LikeAnimation](https://github.com/rvganesh/LikeAnimation)
    * [SwipeableCard](https://github.com/rvganesh/SwipeableCard)
    * [SVG Anim](https://github.com/rvganesh/vectalign)
+   * [ShimmerEffect](https://github.com/rvganesh/Shimmer-android)
+   * [ShimmerEffect](https://github.com/rvganesh/shimmer-android-1)
+   * [Explosion](https://github.com/rvganesh/ExplosionField)
+   * [AnimatedPathView](https://github.com/rvganesh/AnimatedPathView)
  
 ## Project
+
+* [OpenSourceApp](https://github.com/rvganesh/open-source-android-apps)
+
  * [File Manager] (https://github.com/rvganesh/AmazeFileManager-1)
+ * [RingDroid](https://github.com/rvganesh/ringdroid)
+ * [App Manager](https://github.com/rvganesh/MLManager)
  * [MyExpenses] (https://github.com/rvganesh/MyExpenses)
  * [Gallery] (https://github.com/rvganesh/impression)
  * [Notepad](https://github.com/rvganesh/notepad)
@@ -149,7 +181,7 @@
  * [Material todo](https://github.com/rvganesh/Minimal-Todo)
  * [EverMemo](https://github.com/rvganesh/EverMemo)
  * [Omni Notes](https://github.com/rvganesh/Omni-Notes)
- * [Alarm ](https://github.com/rvganesh/Remindly)
+ * [Remainder ](https://github.com/rvganesh/Remindly)
  * [Task Notes](https://github.com/rvganesh/opentasks)
  * [Wallpaper](https://github.com/rvganesh/wall-splash-android)
  * [SoundRecorder](https://github.com/rvganesh/SoundRecorder)
@@ -157,6 +189,12 @@
  * [ShareViaHttp](https://github.com/rvganesh/shareviahttp)
  * [LockScreen](https://github.com/rvganesh/Pi-Locker)
  * [Android History](https://github.com/rvganesh/android-historian)
+ * [Philm](https://github.com/rvganesh/philm)
+ * [PhotoEditor](https://github.com/rvganesh/Photogeneia)
+ * [ApkShare](https://github.com/rvganesh/APKShare)
+ * [AppLocker](https://github.com/rvganesh/AppLocker)
+ * [GoogleDirection](https://github.com/rvganesh/Google-Directions-Android)
+ * [Thirukural](https://github.com/rvganesh/thirukkural-open-source-app)
  
   ##### Music Player
   * [Jocky] (https://github.com/rvganesh/Jockey)
@@ -165,6 +203,9 @@
   * [GEM](https://github.com/rvganesh/GEM)
   * [Jams](https://github.com/rvganesh/JamsMusicPlayer)
   * [Timber](https://github.com/rvganesh/Timber)
+  * [Musixygen](https://github.com/rvganesh/Musixygen)
+  * [MaterialPlayer](https://github.com/rvganesh/MaterialAudiobookPlayer)
+  * [FFmpeg](https://github.com/rvganesh/FFmpegMediaPlayer)
   
   ##### Camera
   * [LCamera](https://github.com/rvganesh/lcamera)
