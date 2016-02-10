@@ -12,7 +12,7 @@
     * [RevealLayout](https://github.com/rvganesh/FABRevealLayout)
     * [ExpandableLayout](https://github.com/rvganesh/ExpandableLayout-1)
     * [ToggleExpantLayout](https://github.com/rvganesh/ToggleExpandLayout)
-    * 
+    
   ##### RecyclerView
     * [Ultimate Recyclerview](https://github.com/rvganesh/UltimateRecyclerView)
     * [Sticky Header] (https://github.com/rvganesh/sticky-headers-recyclerview)
