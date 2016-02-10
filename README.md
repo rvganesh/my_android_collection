@@ -4,6 +4,15 @@
  * [Awesome UI Collection](https://github.com/rvganesh/awesome-android-ui)
  * [Awesome UI](https://github.com/rvganesh/awesome-android-1)
  
+  ##### Layout
+    * [RefreshLayout](https://github.com/rvganesh/Android-MaterialRefreshLayout)
+    * [ProgressLayout](https://github.com/rvganesh/ProgressLayout)
+    * [CollapsingToolbarLayout](https://github.com/rvganesh/CollapsingToolbarExample)
+    * [Shadow Layout](https://github.com/rvganesh/shadow-layout)
+    * [RevealLayout](https://github.com/rvganesh/FABRevealLayout)
+    * [ExpandableLayout](https://github.com/rvganesh/ExpandableLayout-1)
+    * [ToggleExpantLayout](https://github.com/rvganesh/ToggleExpandLayout)
+    * 
   ##### RecyclerView
     * [Ultimate Recyclerview](https://github.com/rvganesh/UltimateRecyclerView)
     * [Sticky Header] (https://github.com/rvganesh/sticky-headers-recyclerview)
@@ -12,6 +21,7 @@
     * [Drag and drop](https://github.com/rvganesh/DragRecyclerView)
     * [SwipwMenu] (https://github.com/rvganesh/SwipeMenuRecyclerView)
     * [NestedRecycler](https://github.com/rvganesh/nested-recycler-view)
+    * [Dividers](https://github.com/rvganesh/Dividers)
  
   ##### ProgressBar
     * [Dialing dot] (https://github.com/rvganesh/DilatingDotsProgressBar)
@@ -19,6 +29,7 @@
     * [Loading dot](https://github.com/rvganesh/loading-dots)
     * [WaveLoading](https://github.com/rvganesh/WaveLoadingView)
     * [CircularFillableLoader](https://github.com/rvganesh/CircularFillableLoaders)
+    * [DotProgress](https://github.com/rvganesh/DotProgressBarExample)
 
   ##### ViewPager
     * [Mapviewpager] (https://github.com/rvganesh/mapviewpager)
@@ -26,6 +37,9 @@
   ##### Dialog
     * [Peek and Pop] (https://github.com/rvganesh/PeekAndPop)
     * [Material Dialog] (https://github.com/rvganesh/material-dialogs)
+    * [BannerTime](https://github.com/rvganesh/BannerTime)
+    * [SearchableSpinner](https://github.com/rvganesh/SearchableSpinner)
+    * [PickerUI](https://github.com/rvganesh/PickerUI)
     
   ##### Menu
     * [CoolMenu](https://github.com/rvganesh/coolMenu)
@@ -34,7 +48,7 @@
   ##### EditText
     * [Masked-Edittext](https://github.com/rvganesh/Masked-Edittext)
     
-  ##### Custom View
+  ##### View
     * [Star View] (https://github.com/rvganesh/StarView)
     * [BoilingLoadingView] (https://github.com/rvganesh/BoilingLoadingView)
     * [SnowFall](https://github.com/rvganesh/Snowfall)
@@ -43,7 +57,12 @@
     * [Timelineview](https://github.com/rvganesh/Timeline-View)
     * [GifView](https://github.com/rvganesh/GifView)
     * [DragScaleCircleView](https://github.com/rvganesh/DragScaleCircleView)
-    
+    * [RadarScanView](https://github.com/rvganesh/RadarScanView)
+    * [HeartLayout](https://github.com/rvganesh/HeartLayout)
+    * [DraggableView](https://github.com/rvganesh/DraggableView)
+    * [Hashtag View](https://github.com/rvganesh/hashtag-view)
+    * [WashingMachineView](https://github.com/rvganesh/WashingMachineView)
+    * [WaveView](https://github.com/rvganesh/WaveView-1)
     
   ##### Calendar
     * [Clean-simple-calendar](https://github.com/rvganesh/clean-simple-calendar)
@@ -75,12 +94,14 @@
     * [UCrop] (https://github.com/rvganesh/uCrop)
     * [Scissors](https://github.com/rvganesh/scissors)
     * [Cropper](https://github.com/rvganesh/CropperNoCropper)
+    * [SimpleCropView](https://github.com/rvganesh/SimpleCropView)
 
 ##Effect
    * [Reflect] (https://github.com/rvganesh/reflectasm)
    * [HTextView](https://github.com/rvganesh/HTextView)
    * [LikeAnimation](https://github.com/rvganesh/LikeAnimation)
    * [SwipeableCard](https://github.com/rvganesh/SwipeableCard)
+   * [SVG Anim](https://github.com/rvganesh/vectalign)
  
 ## Project
  * [File Manager] (https://github.com/rvganesh/AmazeFileManager-1)
@@ -111,6 +132,7 @@
  * [Pattern Lock](https://github.com/rvganesh/PatternLock)
  * [ShareViaHttp](https://github.com/rvganesh/shareviahttp)
  * [LockScreen](https://github.com/rvganesh/Pi-Locker)
+ * [Android History](https://github.com/rvganesh/android-historian)
  
   ##### Music Player
   * [Jocky] (https://github.com/rvganesh/Jockey)
@@ -124,3 +146,27 @@
   * [LCamera](https://github.com/rvganesh/lcamera)
   * [StickerCamera](https://github.com/rvganesh/StickerCamera)
   * [MaterialCamera](https://github.com/rvganesh/material-camera)
+  
+## Networking
+* [OkHttp](https://github.com/square/okhttp)
+
+## REST Client
+* [Retrofit](https://github.com/square/retrofit)
+* [Volley](https://github.com/mcxiaoke/android-volley)
+
+## JSON
+* [Gson](https://github.com/google/gson)
+
+## Reactive
+* [RxJava](https://github.com/ReactiveX/RxJava)
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid)
+* [RxLifecycle](https://github.com/trello/RxLifecycle)
+* [RxBinding](https://github.com/JakeWharton/RxBinding)
+
+## ORM
+* [DBFlow](https://github.com/Raizlabs/DBFlow)
+* [SugarORM](https://github.com/satyan/sugar)
+* [greenDAO](https://github.com/greenrobot/greenDAO)
+* [ActiveAndroid](https://github.com/pardom/ActiveAndroid)
+* [Sprinkles](https://github.com/emilsjolander/sprinkles)
+* [Realm](https://github.com/realm/realm-java)
