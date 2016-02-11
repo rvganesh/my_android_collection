@@ -1,1 +1,1 @@
-https://bitbucket.org/snippets/rvganesh/
+https://bitbucket.org/rvganesh/android_collection/overview
