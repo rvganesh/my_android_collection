@@ -43,6 +43,7 @@
     * [ToggleExpantLayout](https://github.com/rvganesh/ToggleExpandLayout)
     * [PhysicsLayout](https://github.com/rvganesh/PhysicsLayout)
     * [FoldableLayout](https://github.com/rvganesh/FoldableLayout-1)
+    * [sliding](https://github.com/rvganesh/slidingtutorial-android)
     
   ##### RecyclerView
     * [Ultimate Recyclerview](https://github.com/rvganesh/UltimateRecyclerView)
@@ -54,6 +55,7 @@
     * [NestedRecycler](https://github.com/rvganesh/nested-recycler-view)
     * [Dividers](https://github.com/rvganesh/Dividers)
     * [TreeRecyclerView](https://github.com/rvganesh/TreeRecyclerView)
+    * [Video Recycler](https://github.com/rvganesh/Toro)
  
   ##### ProgressBar
     * [Dialing dot] (https://github.com/rvganesh/DilatingDotsProgressBar)
@@ -77,6 +79,7 @@
     * [QuickAction](https://github.com/rvganesh/NewQuickAction3D)
     * [NiftyDialog](https://github.com/rvganesh/NiftyDialogEffects)
     * [Html Dialog](https://github.com/rvganesh/HtmlDialog)
+    * [MaterialStyledDialogs](https://github.com/rvganesh/MaterialStyledDialogs)
     
   ##### Menu
     * [CoolMenu](https://github.com/rvganesh/coolMenu)
@@ -103,6 +106,7 @@
     * [TriangleLabelView](https://github.com/rvganesh/TriangleRectangleLabelView)
     * [PhotoView](https://github.com/rvganesh/PhotoView)
     * [CompassView](https://github.com/rvganesh/Compass)
+    * [CustomShapeImageView](https://github.com/rvganesh/CustomShapeImageView)
     
   ##### Calendar
     * [Clean-simple-calendar](https://github.com/rvganesh/clean-simple-calendar)
@@ -123,6 +127,8 @@
     * [Full Screen Video] (https://github.com/rvganesh/FullscreenVideoView)
 
 ## Utils
+
+ * [Proguard](https://github.com/rvganesh/android-proguard-snippets)
  * [HashTagHelper] (https://github.com/rvganesh/HashTagHelper)
  * [CrashLogger](https://github.com/rvganesh/CrashWoodpecker)
  * [Shadow4Android](https://github.com/rvganesh/shadow4android)
