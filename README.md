@@ -154,7 +154,7 @@
    * [Explosion](https://github.com/rvganesh/ExplosionField)
    * [AnimatedPathView](https://github.com/rvganesh/AnimatedPathView)
  
-## Project
+## Collection
 
 * [OpenSourceApp](https://github.com/rvganesh/open-source-android-apps)
 
